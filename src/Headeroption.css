@@ -1,0 +1,18 @@
+.header_option{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+.header_option:hover{
+    color: #000;
+}
+/* header_option_icon{
+align-self: center;
+} */
+.header_option_avatar{
+       object-fit: contain;
+       width: 25px !important;
+       height: 25px !important;
+}
